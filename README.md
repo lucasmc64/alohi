@@ -15,7 +15,7 @@ Alohi comes to never let me forget which languages I went through and how many "
 #### Running
 
 ```bash
-gcc alohi.c -o alohi-c && ./alohi-c; \rm ./alohi-c alohi.o
+gcc alohi.c -o alohi-c && ./alohi-c; \rm ./alohi-c
 ```
 
 ### Dart
@@ -27,7 +27,7 @@ gcc alohi.c -o alohi-c && ./alohi-c; \rm ./alohi-c alohi.o
 
 #### Running
 
-```dart
+```bash
 dart run alohi.dart
 ```
 
@@ -39,7 +39,7 @@ dart run alohi.dart
 
 #### Running
 
-```java
+```bash
 java alohi.java
 ```
 
@@ -51,7 +51,7 @@ java alohi.java
 
 #### Running
 
-```javascript
+```bash
 node alohi.js
 ```
 
@@ -63,6 +63,6 @@ node alohi.js
 
 #### Running
 
-```julia
+```bash
 julia alohi.jl
 ```

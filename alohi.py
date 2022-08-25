@@ -1,0 +1,1 @@
+print("Alohi, World!")

@@ -1,68 +1,82 @@
-# Alohi
+# :vulcan_salute: Alohi
 
-## Goal
+## :black_flag: Goal
 
 Alohi comes to never let me forget which languages I went through and how many "Hello, World!" warmed my heart, never letting me give up.
 
-## Languages
+## :scroll: Languages
 
-### C
+> Any GNU/Linux distro is supposed to be used to execute the commands below.
 
-#### Dependencies
+### :crown: C
+
+#### :hammer_and_wrench: Dependencies
 
 - [GCC](https://gcc.gnu.org/) (or another C compiler)
 
-#### Running
+#### :alembic: Running
 
 ```bash
 gcc alohi.c -o alohi-c && ./alohi-c; \rm ./alohi-c
 ```
 
-### Dart
+### :dart: Dart
 
-#### Dependencies
+#### :hammer_and_wrench: Dependencies
 
 - [Dart SDK](https://dart.dev/get-dart)
   > If your distro doesn't use _.deb_ packages, you can install Flutter via Snap (Dart support is installed automatically).
 
-#### Running
+#### :alembic: Running
 
 ```bash
 dart run alohi.dart
 ```
 
-### Java
+### :coffee: Java
 
-#### Dependencies
+#### :hammer_and_wrench: Dependencies
 
 - [JDK](https://openjdk.org/)
 
-#### Running
+#### :alembic: Running
 
 ```bash
 java alohi.java
 ```
 
-### JavaScript
+### :globe_with_meridians: JavaScript
 
-#### Dependencies
+#### :hammer_and_wrench: Dependencies
 
 - [Node.JS](https://nodejs.org)
 
-#### Running
+#### :alembic: Running
 
 ```bash
 node alohi.js
 ```
 
-### Julia
+### :woman_scientist: Julia
 
-#### Dependencies
+#### :hammer_and_wrench: Dependencies
 
-- [Julia compiler](https://julialang.org/)
+- [Julia](https://julialang.org/)
 
-#### Running
+#### :alembic: Running
 
 ```bash
 julia alohi.jl
+```
+
+### :snake: Python
+
+####  :hammer_and_wrench: Dependencies
+
+- [Python](https://www.python.org/)
+
+#### :alembic: Running
+
+```bash
+python3 alohi.py
 ```

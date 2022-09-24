@@ -71,7 +71,7 @@ julia alohi.jl
 
 ### :snake: Python
 
-####  :hammer_and_wrench: Dependencies
+#### :hammer_and_wrench: Dependencies
 
 - [Python](https://www.python.org/)
 
@@ -79,4 +79,16 @@ julia alohi.jl
 
 ```bash
 python3 alohi.py
+```
+
+### Haskell
+
+```bash
+runghc alohi.hs
+```
+
+### Prolog
+
+```bash
+swipl -c alohi.pl
 ```
